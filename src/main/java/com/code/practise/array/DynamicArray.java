@@ -1,8 +1,5 @@
 package com.code.practise.array;
 
-import java.util.Arrays;
-import java.util.stream.Stream;
-
 public class DynamicArray {
 
     private int count;
